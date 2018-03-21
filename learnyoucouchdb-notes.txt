@@ -1,0 +1,6 @@
+
+learnyoucouchdb
+
+
+sudo npm install learnyoucouchdb -g
+learnyoucouchdb
